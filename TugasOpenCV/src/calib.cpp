@@ -8,7 +8,6 @@ using namespace cv;
 
 int main() {
     // 1. Konfigurasi Papan Catur
-    // Sesuai gambar di layarmu, ukurannya 9x6 titik sudut dalam
     int boardWidth = 9;  
     int boardHeight = 6; 
     Size boardSize(boardWidth, boardHeight);
